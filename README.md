@@ -2,13 +2,6 @@
 
 A simple React + Tailwind CSS application that allows users to change the background color of the screen by clicking on color buttons.
 
-## 🚀 Live Demo
-
-> _Add link here after deploying (e.g., Vercel or Netlify)_
-
-## 📸 Screenshot
-
-![App Screenshot](./screenshot.png)
 
 ## 🧰 Tech Stack
 
@@ -28,5 +21,5 @@ A simple React + Tailwind CSS application that allows users to change the backgr
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/color-changer-app.git
+https://github.com/muhammad-ahmad-yousaf/color-changer-app.git
 cd color-changer-app
